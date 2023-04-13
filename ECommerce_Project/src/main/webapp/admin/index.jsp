@@ -46,7 +46,7 @@
                         <form method="post" action="../AdminController">
                         <div class="form-floating mb-3">
                             <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" name="emailid" required>
-                            <label for="floatingInput">Email address</label>
+                            <label for="floatingInput">Email address h</label>
                         </div>
                         <div class="form-floating mb-4">
                             <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password" required>
